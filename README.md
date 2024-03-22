@@ -27,29 +27,7 @@ Este é um verificador de triângulos que determina se os valores fornecidos pod
 3. Limpar:
    - O botão "LIMPAR" permite ao usuário limpar os campos de entrada e o resultado, facilitando a entrada de novos valores.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/VERIFICADOR-DE-TRIANGULO.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd VERIFICADOR-DE-TRIANGULO
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip VERIFICADOR-DE-TRIANGULO.zip
-```
-
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. Inserir Comprimentos dos Lados:
    - Insira os comprimentos dos três lados do triângulo nos campos "LADO 1", "LADO 2" e "LADO 3".
 
@@ -62,9 +40,9 @@ unzip VERIFICADOR-DE-TRIANGULO.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
